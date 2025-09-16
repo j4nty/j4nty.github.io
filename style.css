@@ -1,5 +1,6 @@
 body {
-   background-color: #0c425b;
+   background-color: #130032;
+   color: #91d8cb
 }
 
 .notification {
@@ -17,6 +18,3 @@ body {
    text-align: center;
 }
 
-#mainPageHeader {
-   color: #91d8cb
-}
