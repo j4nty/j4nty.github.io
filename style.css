@@ -1,3 +1,5 @@
+@import url('https://github.com/j4nty/fonts/Bagnard/Bagnard.css');
+
 /* CSS Reset */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -23,14 +25,19 @@ time, mark, audio, video {
 body {
    background-color: #000000;
    color: #91d8cb;
+   font-family: 'Bagnard', 'serif';
 }
 
 #main {
    margin: 0 30%;
-   border-left: 1pt solid white;
-   border-right: 1pt solid white;
+   padding: 12pt;
+   border: 1pt solid #00a2a3;
    background-color: #130032;
    top: 0;
+}
+
+h1, h2, h3 {
+   margin: 5pt;
 }
 
 h1 {
