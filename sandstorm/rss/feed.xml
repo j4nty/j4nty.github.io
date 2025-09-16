@@ -1,0 +1,13 @@
+<rss version="2.0">
+   <channel>
+      <title>Sandstorm</title>
+      <description>An episodic novel about piracy and imperialism on a vast desert with wind-powered sand craft.</description>
+      <link>j4nty.github.io/sandstorm</link>
+      
+      <item>
+         <title>Introduction</title>
+         <description></description>
+         <link>j4nty.github.io/sandstorm</link>
+         <guid>j4nty.github.io/sandstorm</guid>
+      </item>
+   </channel>
