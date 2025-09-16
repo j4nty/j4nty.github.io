@@ -1,0 +1,22 @@
+body {
+   background-color: #0c425b;
+}
+
+.notification {
+   background-color: yellow;
+   color: brown;
+   font-size: small;
+   width: 20%;
+   margin: auto;
+   border: 3px solid brown;
+}
+
+.notification h1 {
+   font-size: medium;
+   color: red;
+   text-align: center;
+}
+
+#mainPageHeader {
+   color: #91d8cb
+}
